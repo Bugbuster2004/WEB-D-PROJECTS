@@ -2,6 +2,8 @@
 Creating my Web-D projects
 
 created a gym website landing page using HTML and CSS
+
+
 <!DOCTYPE html>
 <html lang="en">
 
